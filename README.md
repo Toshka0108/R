@@ -1,6 +1,6 @@
-R
+# R
 =
 
-R projects (studies)
+## R projects (studies)
 
 This repo contains my .R studies files.
